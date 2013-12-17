@@ -1,0 +1,22 @@
+Examination:  CT Chest with Contrast, [date]
+
+Clinical History:   [cancer diagnosis].
+
+Indication:  [cancer diagnosis for staging / or / clinical question].
+
+Comparison:  [relevant prior imaging date]
+
+Technique:  IV contrast, 2.5mm axial images with coronal and sagittal reconstructions.
+
+Findings:  [Lungs are clear.]  
+
+[There is no mediastinal, hilar, or axillary lymphadenopathy.]
+
+[Vessels enhance normally. ]
+
+[There are no pleural effusions. ]
+
+[Bones are normal.] 
+
+IMPRESSION:  
+1.  [No evidence of metastatic disease in the chest. ]
