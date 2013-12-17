@@ -1,0 +1,24 @@
+Examination:  CT abdomen and pelvis with Contrast, [date]
+
+Clinical History:   [cancer diagnosis].
+
+Indication:  [cancer diagnosis for staging / or / clinical question].
+
+Comparison:  [relevant prior imaging date]
+
+Technique:  GI and IV contrast, 2.5mm axial images with coronal and sagittal reconstructions.
+
+Findings:  [No abnormal enhancement seen in the liver.]  [There is no ductal dilation.]  
+
+[Pancreas, gallbladder, and spleen are normal]
+
+[There is no mesenteric, retroperitoneal, or pelvic lymphadenopathy.]
+
+[Vessels enhance normally. ]
+
+[Kidneys enhance symmetrically without hydronephrosis. ]  [Prostate, seminal vesicles, and bladder are normal. ]
+
+[Bones are normal.] 
+
+IMPRESSION:  
+1.  [No evidence of metastatic disease in the abdomen or pelvis. ]
